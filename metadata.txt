@@ -1,0 +1,31 @@
+[general]
+name=Offsetter
+qgisMinimumVersion=3.0
+description=This plugin adds offset a field fpr offset values to line layers to automatically display lines of different categories that are lying on top of each other.
+version=0.1
+author=Suddber
+email=suddb@posteo.de
+
+about=This plugin adds a field for offset values to line layers to automatically display lines of different categories that are lying on top of each other.
+
+tracker=https://github.com/Suddber/Offsetter/issues
+repository=https://github.com/Suddber/Offsetter
+
+hasProcessingProvider=yes
+# changelog=
+
+tags=python
+
+homepage=https://github.com/Suddber/Offsetter
+category=Analysis
+icon=icon.png
+experimental=True
+
+deprecated=False
+
+# plugin_dependencies=
+
+# category=
+
+server=False
+
